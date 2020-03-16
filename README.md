@@ -1,5 +1,8 @@
 # AdminLTE2-IT黑马-定制版
 
+
+- [演示地址](http://itheimaadmin.itcast.cn/www/index.html)
+
 ![后台首页](https://itheima2017.gitbooks.io/adminlte2-itheima-doc/img/hans/index.png)
 
 - [在线文档](https://itheima2017.gitbooks.io/adminlte2-itheima-doc)
